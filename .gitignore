@@ -9,10 +9,8 @@ next-app-dist/
 
 # Temporary / local
 tmp/
-.DS_Store
 
 # Environment variables
-.env
 .env*.local
 
 # Claude Code
